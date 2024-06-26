@@ -2,7 +2,7 @@
 
 
   
- 🔭 I’m currently working on: Learning C++
+ 🔭 I’m currently working on: Nothing
  
  🌱 I’m currently learning: C++
  
