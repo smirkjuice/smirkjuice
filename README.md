@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning: C++
  
- 🧠 I mainly use: C++, C#
+ 🧠 I mainly use: C++
  
  👯 I’m looking to collaborate on - Anything
  
