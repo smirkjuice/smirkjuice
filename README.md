@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaceWhite&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
  🔭 I’m currently working on: Nothing
  
