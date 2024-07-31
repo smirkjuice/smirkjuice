@@ -4,7 +4,7 @@
   
  🔭 I’m currently working on: Nothing
  
- 🌱 I’m currently learning: C++
+ 🌱 I’m currently learning: Nothing
  
  🧠 I mainly use: C++
  
@@ -12,6 +12,6 @@
  
  🤔 I’m looking for help with - Nothing right now
  
- 📫 How to reach me: macewhite@proton.me
+ 📫 How to reach me: You can't 
  
  😄 Pronouns: Any
