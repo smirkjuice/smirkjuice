@@ -1,10 +1,12 @@
 ### Hi there 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaceWhite&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaceWhite&layout=compact)](https://github.com/MaceWhite/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=smirkjuice&show_icons=true&theme=github_dark"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smirjuice&layout=compact&langs_count=8&card_width=320" />
+</a>
   
- 🔭 I’m currently working on: Nothing
+ 🔭 I’m currently working on: Nothing important
  
  🌱 I’m currently learning: Nothing
  
@@ -12,8 +14,6 @@
  
  👯 I’m looking to collaborate on - Anything
  
- 🤔 I’m looking for help with - Nothing right now
- 
- 📫 How to reach me: You can't 
+ 🤔 I’m looking for help with - Nothing
  
  😄 Pronouns: Any
