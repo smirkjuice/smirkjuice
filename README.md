@@ -23,6 +23,4 @@ and so, so much more!
 
 I also plan on doing some things with graphics libaries such as SDL and OpenGL
 
-Currently, I'm rewriting the [SDK of Blade and Sorcery](https://github.com/KospY/BasSDK) in C++, just because I'm bored :)
-
 If you can't tell, I really like coding :)
