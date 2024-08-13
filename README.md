@@ -20,7 +20,3 @@ Some languages that I want to learn include:
 - Python
 
 and so, so much more!
-
-I also plan on doing some things with graphics libaries such as SDL and OpenGL
-
-If you can't tell, I really like coding :)
