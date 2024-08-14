@@ -8,15 +8,15 @@
 ---
 
 
-Hello! I'm Smirkjuice! I am a C++ programmer who's also getting into other low to mid-level languages, like C and Assembly!
+Hello! I'm Smirkjuice! I am a C++ programmer!
+
 Some languages that I want to learn include: 
 - Rust, 
 - Java, 
 - Go, 
 - Kotlin, 
-- CUDA-C++
-- GLSL
-- Even more C++
-- Python
+- CUDA-C++,
+- GLSL,
+- Python,
 
-and so, so much more!
+and so much more!
