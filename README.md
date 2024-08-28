@@ -6,17 +6,3 @@
 </a>
 
 ---
-
-
-Hello! I'm Smirkjuice! I am a C++ programmer!
-
-Some languages that I want to learn include: 
-- Rust, 
-- Java, 
-- Go, 
-- Kotlin, 
-- CUDA-C++,
-- GLSL,
-- Python,
-
-and so much more!
