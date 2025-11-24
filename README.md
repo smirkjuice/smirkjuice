@@ -7,3 +7,8 @@
 
 ---
 I wish I had more to show, but I just don't upload like 99% of the shit I code lol
+
+They call me 007
+0 Projects finished
+0 Dedication to finish projects
+7 Quattourvigintillion unfinished projects
